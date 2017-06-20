@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+body {font-family: 'Merriweather', serif;align-items: stretch;padding: 10% }
+article {max-width: 600px;margin: 0 auto; align-items: center}
+.flex{display: flex;}
+form {flex-direction: column;width: 100%}
+.login-title{width: 50%;text-align: center; margin-right: 20%; border-right: 1px solid #aaa; display: block;}
+.login-form input, .login-form button{width: 100%}
